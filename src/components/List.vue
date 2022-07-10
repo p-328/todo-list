@@ -1,6 +1,6 @@
 <template>
   <div class="content">
-   
+   <!-- TODO: Implement Search functionality for todos -->
     <div class="list-border">
       <h1>Todo List</h1>
       <ul class="list">
